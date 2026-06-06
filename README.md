@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm an independent researcher chasing the biggest Kaggle prizes - i tinker hard and make new things all the time. Albeit not always i show them. My interest is how deep psychology intersects with hard computing — unfortunately my fringe inclinations lead me out of academia. Ever since I've been in a variety of companies balancing contractor jobs at places like Google, with my own independent work.
+I'm an independent researcher chasing the biggest Kaggle prizes - i tinker hard and make new things all the time. Albeit not always i show them. Currently employed, but still looking for business opportunities with highly creative people. My interest is how deep psychology intersects with hard computing — unfortunately my fringe inclinations lead me out of academia. Ever since I've been in a variety of companies balancing contractor jobs at places like Google, with my own independent work.
 
 My best inventions so far:
 
@@ -14,6 +14,7 @@ _Ive tried many SaaS business - if you are a programmer and you are still lookin
 
 
 Opinions are only my own. Albeit i get massive enjoyment from sitting in my garage tinkering, my end pursuit is a better society. If this means abandoning AI, so be it. None of this is important besides meeting the end of the day with some bread. Some of my hyperfixations on reaching a higher language for cognition, have lead me into writing about philosophy; but honestly i hate writing. Deep down i made _patterns_, and i dream all day long about a "new language" because i hate word jugglers.
+
 
 My greatest life inspirations are John the baptist and Paul the apostle.
 
