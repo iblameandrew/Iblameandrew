@@ -4,7 +4,7 @@ I'm an independent researcher chasing the biggest Kaggle prizes - i tinker hard 
 
 My best inventions so far:
 
-- QNN as a reasoning paradigm as it can be seen in my rather modest local-deepthink repo. Looking right now to build an agentic coder that has qnn/ as a command with width and depth for extreme scale brainstorming. Imagine being stuck with your agent in some tricky problem at work. Well you span a hundred agents to figure out alternatives, and its done. At least one of the hundred agents in your army will figure out a way out.
+- QNN as a reasoning paradigm as it can be seen in my rather modest local-deepthink repo. Looking right now to build an agentic coder that has qnn/ as a command with width and depth for extreme scale brainstorming. Imagine being stuck with your agent in some tricky problem at work. Well you span a hundred agents to figure out alternatives, and its done. At least one of the hundred agents in your army will figure a way out.
 
 - ZODIAC. This is by my magnum opus - it sees the LLM as a "world" which a collection of agents can explore using recursive topological anchors instead of textual system prompts - the topological anchors describe parallel evolution sequences that make the agents/particles collect skills inside the LLM backbone, doing  thus inference in a radically different way. Never got any attention.
 
