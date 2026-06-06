@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm an independent researcher chasing the biggest Kaggle prizes - i tinker hard and make new things all the time. albet not always i show them. My interest is how deep psychology intersects with hard computing — unfortunately my fringe inclinations lead me out of academia. Ever since I've been in a variety of companies balancing contractor jobs at places like Google, with my own independent work.
+I'm an independent researcher chasing the biggest Kaggle prizes - i tinker hard and make new things all the time. Albeit not always i show them. My interest is how deep psychology intersects with hard computing — unfortunately my fringe inclinations lead me out of academia. Ever since I've been in a variety of companies balancing contractor jobs at places like Google, with my own independent work.
 
 My best inventions so far:
 
