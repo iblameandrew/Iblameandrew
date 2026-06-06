@@ -4,13 +4,13 @@ I'm an independent researcher chasing the biggest Kaggle prizes - i tinker hard 
 
 My best inventions so far:
 
-- QNN as a reasoning paradigm as it can be seen in my rather modest local-deepthink repo. Looking right now to build an agentic coder that has qnn/ as a command with width and depth for extreme scale brainstorming.
+- QNN as a reasoning paradigm as it can be seen in my rather modest local-deepthink repo. Looking right now to build an agentic coder that has qnn/ as a command with width and depth for extreme scale brainstorming. Imagine being stuck with your agent in some tricky problem at work. Well you span a hundred agents to figure out alternatives, and its done. At least one of the hundred agents in your army will figure out a way out.
 
-- ZODIAC. This is by my magnum opus - it sees the LLM as a "world" in which a collection of agents can explore using recursive topological anchors instead of textual system prompts - the topological anchors describe parallel evolution sequences that make the agents "explore" the LLM in a bio inspired way, doing  thus inference to the LLM in a radically different way. Never got any attention.
+- ZODIAC. This is by my magnum opus - it sees the LLM as a "world" which a collection of agents can explore using recursive topological anchors instead of textual system prompts - the topological anchors describe parallel evolution sequences that make the agents/particles collect skills inside the LLM backbone, doing  thus inference in a radically different way. Never got any attention.
 
-- Patterns: i built a grammar to portray jungian functionals as chemical reactors: any sequence of text can be translated into a functional representation thats a bit like both Feynmann diagrams and analytical chemistry. This eventually lead me to build ZODIAC. I'm still working on  richer compositional rules.
+- Patterns: i built a grammar to portray jungian functionals as chemical reactors: any sequence of text can be translated into a functional representation thats a bit like both Feynmann diagrams and analytical chemistry. This eventually lead me to build ZODIAC: a chain of geomtric targets tells the agent what to do in the language of Optimization Math. I'm still working on  richer compositional rules. Theres no scientific rigor, nor i care, because i eventually figured, this is extreme analytical psychology.
 
-_Ive tried many SaaS business - if you are a programmer and you are still looking to get rich through SaaS, just look elsewhere man._
+_Ive tried many SaaS business - if you are a programmer and you are still looking to get rich through SaaS, just look elsewhere man. My best business so far was a beautiful dating app which used ultra long sequences of my jungian grammars to pattern match people "solving" a little algbebraic problem for each two people together. Unfortunately, without a massive demographic, dating apps are useless besides casual sex. Im very much interested in the idea that if you fix sexuality, you fix a signifcant aspect of the worlds problems._
 
 
 Opinions are only my own. Albeit i get massive enjoyment from sitting in my garage tinkering, my end pursuit is a better society. If this means abandoning AI, so be it. None of this is important besides meeting the end of the day with some bread.
